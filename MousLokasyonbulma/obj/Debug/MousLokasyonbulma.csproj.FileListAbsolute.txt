@@ -1,0 +1,10 @@
+C:\Users\Ebubekir\source\repos\MousLokasyonbulma\MousLokasyonbulma\bin\Debug\MousLokasyonbulma.exe.config
+C:\Users\Ebubekir\source\repos\MousLokasyonbulma\MousLokasyonbulma\bin\Debug\MousLokasyonbulma.exe
+C:\Users\Ebubekir\source\repos\MousLokasyonbulma\MousLokasyonbulma\bin\Debug\MousLokasyonbulma.pdb
+C:\Users\Ebubekir\source\repos\MousLokasyonbulma\MousLokasyonbulma\obj\Debug\MousLokasyonbulma.csprojAssemblyReference.cache
+C:\Users\Ebubekir\source\repos\MousLokasyonbulma\MousLokasyonbulma\obj\Debug\MousLokasyonbulma.Form1.resources
+C:\Users\Ebubekir\source\repos\MousLokasyonbulma\MousLokasyonbulma\obj\Debug\MousLokasyonbulma.Properties.Resources.resources
+C:\Users\Ebubekir\source\repos\MousLokasyonbulma\MousLokasyonbulma\obj\Debug\MousLokasyonbulma.csproj.GenerateResource.cache
+C:\Users\Ebubekir\source\repos\MousLokasyonbulma\MousLokasyonbulma\obj\Debug\MousLokasyonbulma.csproj.CoreCompileInputs.cache
+C:\Users\Ebubekir\source\repos\MousLokasyonbulma\MousLokasyonbulma\obj\Debug\MousLokasyonbulma.exe
+C:\Users\Ebubekir\source\repos\MousLokasyonbulma\MousLokasyonbulma\obj\Debug\MousLokasyonbulma.pdb
